@@ -1,0 +1,6 @@
+framework module S6SDK {
+  umbrella header "S6SDK.h"
+
+  export *
+  module * { export * }
+}
